@@ -1,16 +1,7 @@
 # cash_track
 
-A new Flutter project.
+A expense tracking app that helps to track your daily spendings and also helps to set you saving goals.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![MixCollage-28-May-2024-04-27-PM-352](https://github.com/riiteeshh/Cash_Track/assets/84494381/e78e31dc-3131-4f32-ace7-32da05ec1ac6)
